@@ -1,4 +1,4 @@
-# Activities — Generative AI for Powerpoint
+# Activities — Microsoft Copilot for Powerpoint Masterclass
 
 Eight progressive self-contained activities for C012. Learners design a statistical KPI, comparison, timeline, process, comparison data-story, hierarchy, stakeholder mind-map and resource-scorecard infographic using Microsoft 365 Copilot and PowerPoint. Every folder contains detailed instructions, printable PDFs, a structured Copilot prompt, synthetic mock data, a formula-enabled Excel workbook, an editable start PowerPoint and an editable worked example.
 

@@ -1,6 +1,6 @@
 # Activity 05 — Create a Comparison Data Story with Copilot and PowerPoint
 
-- **Course:** Generative AI for Powerpoint (C012)
+- **Course:** Microsoft Copilot for Powerpoint Masterclass (C012)
 - **Topic 2:** Creating PowerPoint Infographics with AI
 - **Duration:** 45 minutes
 - **Tools:** Microsoft 365 Copilot + Excel + native PowerPoint chart

@@ -1,4 +1,4 @@
-# Generative AI for Powerpoint
+# Microsoft Copilot for Powerpoint Masterclass
 
 A one-day, hands-on course on using Microsoft 365 Copilot and PowerPoint together to turn data and ideas into clear, editable, professional infographics.
 
@@ -8,7 +8,7 @@ A one-day, hands-on course on using Microsoft 365 Copilot and PowerPoint togethe
 | Programme | Non-WSQ |
 | Duration | 1 day · 9:30am – 5:30pm · 7.5 instructional hours |
 | Delivery | Instructor-led classroom or synchronous virtual |
-| Registration | [View course details and register](https://www.tertiarycourses.com.sg/generative-ai-for-powerpoint.html) |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/microsoft-copilot-for-powerpoint-masterclass.html) |
 
 ![Course cover](screenshot.png)
 
@@ -32,12 +32,12 @@ Learners use AI to plan infographics from approved evidence, generate design dir
 
 | Artifact | Purpose |
 |---|---|
-| [Course slides](courseware/Generative%20AI%20for%20Powerpoint-v1.0.pdf) | 128-slide visual deck with twelve workplace infographic demonstrations |
-| [Learner Guide](courseware/LG-Generative%20AI%20for%20Powerpoint.pdf) | Concepts, step-by-step procedures, prompts and acceptance checks |
-| [Lesson Plan](courseware/LP-Generative%20AI%20for%20Powerpoint.pdf) | One-day schedule (9:30am – 5:30pm) and slide/activity mapping |
+| [Course slides](courseware/Microsoft%20Copilot%20for%20Powerpoint%20Masterclass-v1.0.pdf) | 128-slide visual deck with twelve workplace infographic demonstrations |
+| [Learner Guide](courseware/LG-Microsoft%20Copilot%20for%20Powerpoint%20Masterclass.pdf) | Concepts, step-by-step procedures, prompts and acceptance checks |
+| [Lesson Plan](courseware/LP-Microsoft%20Copilot%20for%20Powerpoint%20Masterclass.pdf) | One-day schedule (9:30am – 5:30pm) and slide/activity mapping |
 | [Activity index](activities/README.md) | Entry point to the eight self-contained activity packs |
 
-Editable PPTX and DOCX files are in [`courseware/`](courseware/). The Learner Guide is mirrored in Markdown at [`LG-Generative AI for Powerpoint.md`](LG-Generative%20AI%20for%20Powerpoint.md).
+Editable PPTX and DOCX files are in [`courseware/`](courseware/). The Learner Guide is mirrored in Markdown at [`LG-Microsoft Copilot for Powerpoint Masterclass.md`](LG-Microsoft%20Copilot%20for%20Powerpoint%20Masterclass.md).
 
 ## Activities
 

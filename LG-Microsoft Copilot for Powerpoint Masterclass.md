@@ -8,7 +8,7 @@ UEN: 201200696W
 
 For
 
-**Generative AI for Powerpoint**
+**Microsoft Copilot for Powerpoint Masterclass**
 
 Course Code: C012
 
@@ -33,7 +33,7 @@ Right-click and choose “Update Field”, or press F9, to build the table of co
 
 # How to Use This Guide
 
-This guide supports Generative AI for Powerpoint (C012), a one-day course. Use it with the visual course deck and the individual activity folders. The slides explain concepts and show worked examples; this guide carries the detailed procedures. Each activity folder is self-contained with Microsoft 365 Copilot prompts, mock CSV/Excel data, editable PowerPoint files and verification evidence.
+This guide supports Microsoft Copilot for Powerpoint Masterclass (C012), a one-day course. Use it with the visual course deck and the individual activity folders. The slides explain concepts and show worked examples; this guide carries the detailed procedures. Each activity folder is self-contained with Microsoft 365 Copilot prompts, mock CSV/Excel data, editable PowerPoint files and verification evidence.
 
 PowerPoint and Copilot interfaces can change. Follow the intent and verify the current control name if your version differs. Use only approved accounts and synthetic or approved data in AI services.
 

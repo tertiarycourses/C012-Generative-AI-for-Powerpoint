@@ -1,6 +1,6 @@
 # Activity 04 — Create a Process Infographic with Microsoft 365 Copilot
 
-- **Course:** Generative AI for Powerpoint (C012)
+- **Course:** Microsoft Copilot for Powerpoint Masterclass (C012)
 - **Topic 2:** Creating PowerPoint Infographics with AI
 - **Duration:** 35 minutes
 - **Tools:** Microsoft 365 Copilot app + PowerPoint

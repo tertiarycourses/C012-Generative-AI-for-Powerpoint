@@ -1,6 +1,6 @@
 # Activity 07 — Create and Review a Stakeholder Mind Map Infographic
 
-- **Course:** Generative AI for Powerpoint (C012)
+- **Course:** Microsoft Copilot for Powerpoint Masterclass (C012)
 - **Topic 3:** Evaluating and Presenting Infographics for Business Impact
 - **Duration:** 30 minutes
 - **Tools:** Microsoft 365 Copilot + PowerPoint + peer review workbook

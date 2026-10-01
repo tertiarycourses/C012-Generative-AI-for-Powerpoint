@@ -1,6 +1,6 @@
 # Activity 02 — Design a Comparison Infographic Brief
 
-- **Course:** Generative AI for Powerpoint (C012)
+- **Course:** Microsoft Copilot for Powerpoint Masterclass (C012)
 - **Topic 1:** AI-Assisted Infographic Planning and Data Insights
 - **Duration:** 35 minutes
 - **Tools:** Microsoft 365 Copilot + PowerPoint
